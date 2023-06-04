@@ -1,0 +1,32 @@
+<footer> 
+ <form action="/save_data" method="get">
+    <div style="float:center;">
+      <table width="100" style="background-color:#CC3636; margin-left:auto; margin-right:auto; padding-left:50px; padding-right: 50px;">
+        <tr>
+          <td align=center>
+            <h2>Contact Me<h2>
+          </td>
+        </tr>
+        <tr>
+          <td align=center>
+            <label for="fName"><b>First Name:</b></label>
+            <input type="text" id="fName" name="fName">
+            <label for="LName"><b>Last Name:</b> </label>
+            <input type="text" id="LastName" name="LastName">
+            <label for="email"><b>Email:</b> </label><br>
+            <input type="text" id="email" name="email"><br>
+            <label for="t-number"><b>Telephone Number:</b> </label>
+            <input type="text" id="t-number" name="t-number"><br>
+            <input type="submit" value="Save">
+          </td>
+      </table>
+      <table width="100%" cellspacing="1">
+        <tr>
+          <td align=center >
+        <a target="_blank" href="https://www.linkedin.com/in/trey-smith-104b45274/">My Linkdin</a> | <a target="_blank" href="https://www.pinterest.com/raw0568/">Pinterest</a> | <a target="_blank" href="https://www.instagram.com/t__raw99/">Instagram</a> | <a target="_blank" href="https://www.facebook.com/treysofreshtodeath.smith/">Facebook</a><br>
+        <small>&copy; Copyright 2023, Montrey Smith</small>
+          </td>
+        </tr>
+      </table> 
+     </form>
+    </footer>  

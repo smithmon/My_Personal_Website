@@ -1,0 +1,60 @@
+Favicon-
+<link rel="icon" type="image/x-icon" href="pug.png">
+
+Images- 
+<main class="grid">
+
+    <div class="grid-item">
+      <h2>Hopsin</h2>
+      <img src="Hopsin.jpg" alt="">
+      <p>Favorite Artist</p>
+    </div>
+
+    <div class="grid-item">
+      <h2>Randy Moss</h2>
+      <img src="Randy.jpg" alt="">
+      <p>Favorite Football Player</p>
+    </div>
+
+    <div class="grid-item">
+      <h2>New England Patriots</h2>
+      <img src="Draft.jpg" alt="">
+      <p>Favorite Sport Team</p>
+    </div>
+
+    <div class="grid-item">
+      <h2>Chicken</h2>
+      <img src="Chicken.jpg" alt="">
+      <p>Favorite Food</p>
+    </div>
+
+    <div class="grid-item">
+      <h2>Injustice 2</h2>
+      <img src="Game.jpg" alt="">
+      <p>Favorite Video Game</p>
+    </div>
+
+    <div class="grid-item">
+      <h2>Keoni</h2>
+      <img src="Keoni[1].jpg" alt="">
+      <p>My Son</p>
+    </div>
+
+  </main><br><br>
+
+Background Images (CSS)-
+body {
+   padding: 1%;
+  background-image:url(Slime.jpg) ;
+}
+.Grind {
+  background-image: url('Serinity.jpg');
+  background-position:center; 
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:300px;
+  max width: 950px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  text-indent: 50px;
+}
