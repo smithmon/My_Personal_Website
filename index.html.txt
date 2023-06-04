@@ -21,7 +21,7 @@
 
 <header style="background-color:#19A7CE">
 
-  <h4 align=center> My personal Website</h4>
+  <h4 align=center> **My personal Website** </h4>
   <h2 align=center> Montrey Smith </h2>
 
  <article class="container align-items center">
@@ -42,7 +42,7 @@
  </article>
 </header>
 
-<body style="background-color:teal;">
+<body style="background-color:maroon;">
  <div class="Trey">
   <h1 align='center'> About Me!</h1>
  <p> 
